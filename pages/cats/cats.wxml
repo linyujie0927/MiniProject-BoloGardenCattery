@@ -1,0 +1,19 @@
+<view>
+	<text>波赛东 - ICH Male BLH ay11</text>
+	<cover-image src='../../images/photo/bosaidong/1.jpg'></cover-image>
+</view>
+
+<view>
+	<text>二豆 - Female BRI ny11</text>
+	<cover-image src='../../images/photo/erdou/1.jpg'></cover-image>
+</view>
+
+<view>
+	<text>果粒 -  Female BLH ny11</text>
+	<cover-image src='../../images/photo/guoli/1.jpg'></cover-image>
+</view>
+
+<view>
+	<text>米粒 - Female BLH ny2133</text>
+	<cover-image src='../../images/photo/mili/1.jpg'></cover-image>
+</view>

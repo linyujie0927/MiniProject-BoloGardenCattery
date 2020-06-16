@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/cattery/cattery",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/cats/cats"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "BoloGarden金渐层猫舍",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#ffffff",
+    "selectedColor": "#00FF00",
+    "list": [
+      {
+        "pagePath": "pages/cattery/cattery",
+        "text": "猫舍介绍",
+        "iconPath": "images/ui/home.png",
+        "selectedIconPath": "images/ui/home0.png"
+      },
+      {
+        "pagePath": "pages/cats/cats",
+        "text": "种猫介绍",
+        "iconPath": "images/ui/cat.png",
+        "selectedIconPath": "images/ui/cat0.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "繁育计划",
+        "iconPath": "images/ui/help.png",
+        "selectedIconPath": "images/ui/help0.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "购猫须知",
+        "iconPath": "images/ui/shopping.png",
+        "selectedIconPath": "images/ui/shopping0.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "联系我们",
+        "iconPath": "images/ui/phonecall.png",
+        "selectedIconPath": "images/ui/phonecall0.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap20.json"
+}
